@@ -1,4 +1,4 @@
-### Hi everyone!
+### Hi!
 
 - ✨ I am an Industrial Engineering professional with more than five years of experience in data analysis, business development, and project management. 
 - 🧡 I love playing with data and gain some valuable insights from it.
