@@ -1,6 +1,5 @@
 ### Hi!
 
-- ✨ I am an Industrial Engineering professional with more than five years of experience in data analysis, business development, and project management. 
-- 🧡 I love playing with data and gain some valuable insights from it.
-- 🌱 I am currently focusing on deepening my knowledge of Python.
-- 🌞 I will share some of my projects here for a better understanding of my work. I hope you find them useful!
+- ✨ I am an Industrial Engineering professional with experience in analyzing and interpreting data related to marketing and CRM activities, as well as product growth, to gain more insights, identify trends and patterns, and communicate the results.
+- 👾 At present, I am dedicated to expanding my proficiency in Python and leveraging the capabilities of Machine Learning in my projects.
+- 🌞 I will be sharing some of my projects to provide a clearer picture of my work. I trust you'll find them insightful and valuable!
